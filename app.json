@@ -1,0 +1,22 @@
+{
+  "id": "dece9315-ecf7-4444-8598-5260bf632d4d",
+  "name": "ALProject1",
+  "publisher": "Defaultpublisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
